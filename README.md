@@ -4,3 +4,6 @@ Implemented various data structures, including linked lists, stacks, and queues,
 
 Technologies Used:
 •	Java, Swing (Java GUI toolkit)
+
+To get the output click on the Home.jar file and download it and double click on the downloaded file and you will see the output
+Or go to this link and download the jar file - https://drive.google.com/drive/folders/1hG2KLVYwPCLpo5h8Rqjf8Y2LOc7UxIuN?ths=true
