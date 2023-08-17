@@ -90,7 +90,7 @@ public class Singly_linked_list extends JFrame {
 					while(temp.link!=null)
 					{
 						temp=temp.link;
-						}
+					}
 					
 					temp.link=newnode;
 					
@@ -161,7 +161,7 @@ public class Singly_linked_list extends JFrame {
 					 {
 						 temp=temp.link;
 					 }
-					 String msg="The deleted element is:"+temp.link.data;
+			     String msg="The deleted element is:"+temp.link.data;
 				 JOptionPane.showMessageDialog(contentPane, msg);
 				 temp.link=null;
 				 }

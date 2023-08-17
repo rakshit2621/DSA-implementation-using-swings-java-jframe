@@ -151,7 +151,7 @@ public class Circular_queue extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				//display//
 				String diaplay="";
-				for(int i=0;i<size;i++) {
+				for(int i=0;i<count;i++) {
 					diaplay=diaplay+" "+q[i];
 				}
 				textField_2.setText(diaplay);
